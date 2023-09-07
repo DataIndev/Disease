@@ -1,0 +1,4 @@
+name: disease
+version: '${project.version}'
+main: com.hmmcrunchy.disease.Disease
+api-version: '1.16'
