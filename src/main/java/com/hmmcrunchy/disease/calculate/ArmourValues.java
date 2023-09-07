@@ -5,15 +5,7 @@
 /*    */ import org.bukkit.inventory.ItemStack;
 /*    */ 
 /*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
-/*    */ 
+
 /*    */ public class ArmourValues
 /*    */ {
 /*    */   int calculatArmourValue(Player p) {
